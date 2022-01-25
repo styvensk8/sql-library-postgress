@@ -1,2 +1,3 @@
-# .sql
-Proyecto sql Llibreria Estambul
+# Libreria Estambul
+
+Cracion de la base de datos del proyecto
